@@ -11,14 +11,6 @@
 		define (C1, "THIAGO");
 		echo $nome_usuario . C1 . "Teste php";
 
-		if ($var1 == 1){
-
-			echo "Primerio IF";
-
-		} else if($var1 == 2){
-
-			echo "Diferente";
-
 		}
 
 	?>
